@@ -17,3 +17,6 @@ teamfights_players.csv
 test_labels.csv
 test_player.csv
 yasp_sample.json
+__pycache__
+matches.json
+results.json
