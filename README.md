@@ -38,7 +38,7 @@ All machine learning algorithms were trained after using scikit-learn's GridSear
 <strong>
 <li>Decision Tree Classifier</li>
 <li>Logistic Regression</li>
-<li>Stochastic Gradient Descent Classifier</li>
+<li>Stochastic Gradient Descent SVM</li>
 <li>Linear Support Vector Machine</li>
 <li>Gaussian Naive Bayes</li>
 <li>XGBClassifier</li>
