@@ -3,7 +3,7 @@
 ## Datasets 
 
 <ul>
-<li>Who will win the match? from Kaggle</li>
+<li><a href="https://www.kaggle.com/devinanzelmo/dota-2-matches">Dota 2 Matches from Kaggle</a></li>
 <li>Public match data fetched using the Opendota API</li>
 </ul>
 
